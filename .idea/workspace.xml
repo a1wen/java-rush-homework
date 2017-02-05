@@ -94,7 +94,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConsoleReader.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ConsoleReader.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level06/lesson08/task04/ConsoleReader.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="215">
@@ -102,6 +102,16 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringHelper.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level06/lesson08/task05/StringHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -124,7 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/javarush/test/level04/lesson04/task10/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level04/lesson06/task01/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level04/lesson06/task02/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level04/lesson06/task03/Solution.java" />
@@ -175,6 +184,7 @@
         <option value="$PROJECT_DIR$/src/com/javarush/test/level05/lesson12/bonus02/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level06/lesson08/task03/Util.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level06/lesson08/task04/ConsoleReader.java" />
+        <option value="$PROJECT_DIR$/src/com/javarush/test/level06/lesson08/task05/StringHelper.java" />
       </list>
     </option>
   </component>
@@ -611,7 +621,14 @@
       <option name="project" value="LOCAL" />
       <updated>1486297986651</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ConsoleReader task from javarush">
+      <created>1486327991134</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1486327991134</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -690,7 +707,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lvl5_lesson12_bonus03" />
     <MESSAGE value="all javarush homeworks from ubuntu laptop" />
-    <option name="LAST_COMMIT_MESSAGE" value="all javarush homeworks from ubuntu laptop" />
+    <MESSAGE value="ConsoleReader task from javarush" />
+    <option name="LAST_COMMIT_MESSAGE" value="ConsoleReader task from javarush" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -718,13 +736,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level04/lesson06/task08/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="34" column="5" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level04/lesson06/task05/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1081,6 +1092,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level06/lesson08/task05/StringHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
