@@ -576,7 +576,14 @@
       <option name="project" value="LOCAL" />
       <updated>1486340027113</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="KissMyShinyMetalAss, task 6.11.6 from javarush">
+      <created>1486340210503</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1486340210503</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -662,7 +669,8 @@
     <MESSAGE value="Static, task 6.11.3 from javarush" />
     <MESSAGE value="Static Trace, task 6.11.4 from javarush, условие выполняется при static step, иначе цикл бесконечен" />
     <MESSAGE value="PrintIdea, task 6.11.5 from javarush, обращение к статическому классу при вызове статического метода" />
-    <option name="LAST_COMMIT_MESSAGE" value="PrintIdea, task 6.11.5 from javarush, обращение к статическому классу при вызове статического метода" />
+    <MESSAGE value="KissMyShinyMetalAss, task 6.11.6 from javarush" />
+    <option name="LAST_COMMIT_MESSAGE" value="KissMyShinyMetalAss, task 6.11.6 from javarush" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="XDebuggerManager">
